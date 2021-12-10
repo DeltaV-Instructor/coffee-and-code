@@ -1,7 +1,7 @@
 'use strict';
 console.log('app file is connected');
 
-var your_drink = 'Iced americanno!';
+var your_drink = 'Iced Americano!';
 
 var reverse = function(s) {
   return s.split('').reverse().join('');
